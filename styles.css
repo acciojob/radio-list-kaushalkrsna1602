@@ -1,1 +1,9 @@
 /*  your css code here. If applicable */
+.red {
+    color: red;
+}
+
+input[type="radio"]:disabled + label {
+    cursor: not-allowed;
+    opacity: 0.6;
+}
