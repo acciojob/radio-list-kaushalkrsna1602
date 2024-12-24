@@ -1,4 +1,4 @@
-label.input:nth-of-type(even) {
+input:nth-of-type(even) {
     color: rgb(255,0,0); /* Set text color for even-positioned labels */
 }
 
