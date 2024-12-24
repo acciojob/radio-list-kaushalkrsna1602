@@ -1,5 +1,5 @@
 label.input:nth-of-type(even) {
-    color: red; /* Set text color for even-positioned labels */
+    color: "rgb(255,0,0)"; /* Set text color for even-positioned labels */
 }
 
 input[type="radio"]:disabled + label {
